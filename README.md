@@ -23,14 +23,14 @@ ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 <p align="left"> <a href="https://www.facebook.com/anastasia.haller.3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/AnastasiaHaller" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/anastasiahaller/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anastasia-haller-76873080/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ---
-<!-- ### 💻 Front-End Courses:
+### 💻 Front-End Courses:
 | Course                                                             | Date              |
 | -------------------------------------------------------------------| :---------------: |
 | Coursera/Meta Front-End Developer Specialization                   | 09/2022 - 08/2023 |
 | Udemy/Web-Developer                                                | 12/2022 - 04/2023 |
 | Udemy/Modern React - From Zero to Professional                     | 05/2023 - xx/2023 |
 | Udemy/The Complete JavaScript + React Course - From Zero to Result | 02/2023 - xx/2023 |
---- -->
+---
 
 ### Badges
 
