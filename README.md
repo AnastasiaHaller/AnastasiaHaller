@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Front-End Developer
 --------------------------
 
-Relocating our family to South Tyrol sparked a transformative career shift for me. Web Development emerged as my true calling, combining my interests and new life context. Self-educated during maternity leave, I'm an aspiring Front-End Developer. My diverse background weaves a tapestry of soft skills—responsibility, decision-making, collaboration, conflict resolution—precious assets on this coding journey. Ready to craft immersive digital experiences."
+Moving our family to South Tyrol prompted a career change for me. This led me to discover my passion for Web Development, aligning perfectly with both my interests and current life situation. While on maternity leave, I took the initiative to self-educate in this field. As a result, I am now an enthusiastic Junior Front-End Developer. Drawing from my varied career, I bring forth a collection of soft skills—ranging from responsibility to conflict resolution—that greatly benefit me on this coding adventure. Ready to create immersive digital experiences.
 
 * 🌍  I'm based in Luson, Italy
 * ✉️  You can contact me at [anadana87@gmail.com](mailto:anadana87@gmail.com)
