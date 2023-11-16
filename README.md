@@ -26,7 +26,7 @@ Moving our family to South Tyrol prompted a career change for me. This led me to
 | Coursera/Meta Front-End Developer Specialization                   | 09/2022 - 08/2023 |
 | Udemy/Web-Developer                                                | 12/2022 - 04/2023 |
 | Udemy/Modern React - From Zero to Professional                     | 05/2023 - 09/2023 |
-| Udemy/The Complete JavaScript + React Course - From Zero to Result | 02/2023 - 09/2023 |
+| Udemy/The Complete JavaScript + React Course - From Zero to Result | 02/2023 - xx/xxxx |
 ---
 
 <b>My GitHub Stats</b>
